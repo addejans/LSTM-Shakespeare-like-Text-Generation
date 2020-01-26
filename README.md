@@ -31,5 +31,13 @@ Generating Shakespeare-like text using Recurrent Neural Networks
 
 ---
 
-## //ToDo Eventually:
- - *n/a*
+## Improvements to the model:
+The easiest thing you can do to improve the results it to train it for longer.
+
+More ideas:
+*   Experiment with a different start string
+*   Try adding another RNN layer to improve the model's accuracy
+*   Adjust the temperature parameter to generate more or less random predictions
+
+
+
